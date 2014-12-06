@@ -1,4 +1,4 @@
-package t02_t03;
+package FuelCalculateDynamicProgramming;
 
 /**
  * Author: Mikhail Tsvik (tsvik@me.com)

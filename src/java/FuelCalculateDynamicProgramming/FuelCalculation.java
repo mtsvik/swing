@@ -1,4 +1,4 @@
-package t02_t03;
+package FuelCalculateDynamicProgramming;
 
 import javax.swing.*;
 import javax.swing.plaf.basic.BasicComboBoxUI;

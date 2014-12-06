@@ -1,4 +1,4 @@
-package t02_t03;
+package FuelCalculateDynamicProgramming;
 
 import javax.swing.*;
 import java.util.ArrayList;

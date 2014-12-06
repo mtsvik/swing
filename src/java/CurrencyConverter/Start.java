@@ -1,4 +1,4 @@
-package ru.ifmo.enf.tsvik.t02;
+package CurrencyConverter;
 
 import org.xml.sax.SAXException;
 

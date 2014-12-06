@@ -1,4 +1,4 @@
-package ru.ifmo.enf.tsvik.t02;
+package CurrencyConverter;
 
 import javax.swing.*;
 import javax.swing.event.DocumentEvent;
